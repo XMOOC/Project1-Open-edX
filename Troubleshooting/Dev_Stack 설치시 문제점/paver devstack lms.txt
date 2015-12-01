@@ -1,0 +1,6 @@
+paver devstack lms 실행 후 에러 발생
+
+Build failed running pavelib.servers.devstack: Subprocess return code: 255
+
+npm install --no-bin-links 실행
+

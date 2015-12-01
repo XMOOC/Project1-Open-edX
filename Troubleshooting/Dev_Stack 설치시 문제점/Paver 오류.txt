@@ -1,0 +1,14 @@
+Dev-Stack 설치 후 
+
+Paver 명령어 설치 오류 발생 시
+
+Paver should be getting installed with the latest versions of edx-platform and configuration.
+
+------Command Line---------
+
+vagrant up
+vagrant ssh
+sudo /edx/bin/update configuration master
+sudo /edx/bin/update edx-platform master
+
+sudo pip install -U Paver

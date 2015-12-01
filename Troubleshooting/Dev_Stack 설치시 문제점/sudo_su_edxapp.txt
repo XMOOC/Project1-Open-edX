@@ -1,0 +1,7 @@
+What do when sudo su edxapp does nothing
+
+Step-by-step guide
+
+sudo vim /etc/passwd
+(Edit)
+edxapp:x:1003:1006::/edx/app/edxapp:/bin/false -> edxapp:x:1003:1006::/edx/app/edxapp:/bin/false

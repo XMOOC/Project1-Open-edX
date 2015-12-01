@@ -1,0 +1,3 @@
+http://edxdev.blogspot.kr/
+
+http://edx.readthedocs.org/projects/edx-developer-guide/en/latest/index.html
