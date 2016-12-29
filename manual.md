@@ -57,127 +57,122 @@
    "Discussion" 버튼을 클릭하면 다음과 같이 discussion 부분이 생성됩니다. 학생들이 discussion에서 강의 내용에 대해 토론할 수 있으며, 실시간으로 학생들이 입력한 내용이 보여집니다.
    ![discussion](/img/23.PNG)
 
-    <a id="html"></a>
-    ***HTML***<br>
-    "HTML" 버튼을 클릭하면 다음 메뉴를 볼 수 있습니다![html_menu](/img/html_menu.PNG)
-    이 중 몇 가지 기능에 대해서 살펴봅시다.
+   - ***<a id="html"></a> HTML***<br>
+   "HTML" 버튼을 클릭하면 다음 메뉴를 볼 수 있습니다
+   ![html_menu](/img/html_menu.PNG)
+   이 중 몇 가지 기능에 대해서 살펴봅시다.
 
-      * Text는 본문 내용을 작성할 수 있습니다. 다음과 같이 등록하고자 하는 내용을 적은 뒤 저장합니다.
-      ![text](/img/24.PNG)
-      다음은 구현 결과입니다.
-      ![text_shown](/img/26.PNG)
+   (1) Text는 본문 내용을 작성할 수 있습니다. 다음과 같이 등록하고자 하는 내용을 적은 뒤 저장합니다.
+   ![text](/img/24.PNG)
+   다음은 구현 결과입니다.
+   ![text_shown](/img/26.PNG)
 
-      - Announcement는 알림사항을 등록하는 기능입니다. 다음과 같이 주어진 템플릿에 맞추어 알림 사항을 적고 저장합니다.
-      ![announcement](/img/25.PNG)
+   (2) Announcement는 알림사항을 등록하는 기능입니다. 다음과 같이 주어진 템플릿에 맞추어 알림 사항을 적고 저장합니다.
+   ![announcement](/img/25.PNG)
 
-      - Full Screen Image Tool은 full size 이미지를 등록하고자 할 때 사용할 수 있습니다. 다음과 같이 이미지의 url을 등록하거나 직접 이미지를 삽입할 수 있습니다.
-      ![image_tool](/img/28.PNG)
-      구현 결과는 다음과 같습니다.
-      ![image_tool_shown](/img/30.PNG)
+   (3) Full Screen Image Tool은 full size 이미지를 등록하고자 할 때 사용할 수 있습니다. 다음과 같이 이미지의 url을 등록하거나 직접 이미지를 삽입할 수 있습니다.
+   ![image_tool](/img/28.PNG)
+   구현 결과는 다음과 같습니다.
+   ![image_tool_shown](/img/30.PNG)
 
-    <a id="problem"></a>
-    ***Problem***<br>
-    "Problem" 버튼을 클릭하면 다음과 같은 메뉴를 볼 수 있습니다. 퀴즈나 lab 등의 문제를 출제할 때 사용할 수 있는 메뉴입니다.
-    ![problem](/img/31.PNG)
+   - ***<a id="problem"></a> Problem***<br>
+   "Problem" 버튼을 클릭하면 다음과 같은 메뉴를 볼 수 있습니다. 퀴즈나 lab 등의 문제를 출제할 때 사용할 수 있는 메뉴입니다.
+   ![problem](/img/31.PNG)
+   이 중 "Common Problem Types"의 기능을 먼저 살펴봅시다.
 
-      - blank common Problem은 단답식 문제를 출제하기 위한 메뉴입니다. 다음과 같이 상단의 'SETTINGS' 버튼을 클릭하면 제목과 시도 횟수 등의 설졍을 할 수 있습니다.
-      ![blank_setting](/img/33.PNG)
-      그리고 문제의 설명과 답을 등록하기 위해 상단의 'EDITOR' 버튼을 클릭한 후 설명을 작성합니다.
-      ![blank_editor](/img/32.PNG)
+   (1) blank common Problem은 단답식 문제를 출제하기 위한 메뉴입니다. 다음과 같이 상단의 'SETTINGS' 버튼을 클릭하면 제목과 시도 횟수 등의 설졍을 할 수 있습니다.
+   ![blank_setting](/img/33.PNG)
+   그리고 문제의 설명과 답을 등록하기 위해 상단의 'EDITOR' 버튼을 클릭한 후 설명을 작성합니다.
+   ![blank_editor](/img/32.PNG)
 
-       제목 밑에는 그림으로 표시된 여러 메뉴가 있습니다.
-       1. 다음과 같이 정답을 보여줄 수 있는 'text input'버튼(![](img/text_input.PNG))을 클릭하면 정답을 적을 수 있습니다.
-      ![blank_input](/img/34.PNG)
-      이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-      ![blank_shown](/img/35.PNG)
+   제목 밑에는 그림으로 표시된 여러 메뉴가 있습니다.
+   다음과 같이 정답을 보여줄 수 있는 'text input'버튼(![](img/text_input.PNG))을 클릭하면 정답을 적을 수 있습니다.
+   ![blank_input](/img/34.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![blank_shown](/img/35.PNG)
 
-       2. 'multiple choice question' 버튼(![](img/multiple_choice.PNG))을 클릭하면 여러 선택지를 등록하고, 그 선택지 중 정답을 표시할 수 있습니다.
-      ![blank_multiple](/img/36.PNG)
-      이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-      ![blank_shown](/img/37.PNG)
+   'multiple choice question' 버튼(![](img/multiple_choice.PNG))을 클릭하면 여러 선택지를 등록하고, 그 선택지 중 정답을 표시할 수 있습니다.
+   ![blank_multiple](/img/36.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![blank_shown](/img/37.PNG)
 
-       3. 'explanation' 버튼(![](img/explanation.PNG))을 클릭하면 문제의 부연 설명을 등록할 수 있습니다.
-       ![blank_exp](/img/38.PNG)
-       이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-       ![blank_shown](/img/39.PNG)
+   'explanation' 버튼(![](img/explanation.PNG))을 클릭하면 문제의 부연 설명을 등록할 수 있습니다.
+   ![blank_exp](/img/38.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![blank_shown](/img/39.PNG)
 
-       4. 'checkboxex' 버튼(![](img/checkbox.PNG))을 클릭하면 복수 정답을 선택할 수 있는 checkboxes 문제를 등록할 수 있습니다.
-       ![check_box](/img/40.PNG)
-       이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-       ![check_box_shown](/img/41.PNG)
+   'checkboxex' 버튼(![](img/checkbox.PNG))을 클릭하면 복수 정답을 선택할 수 있는 checkboxes 문제를 등록할 수 있습니다.
+   ![check_box](/img/40.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![check_box_shown](/img/41.PNG)
 
-       5. 마지막으로 'numerical input' 버튼(![](/img/numeric.PNG))을 클릭하면 숫자를 입력하는 문제를 등록할 수 있습니다.
-       ![numeric](/img/42.PNG)
-       이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-       ![numeric_shown](/img/43.PNG)
+   마지막으로 'numerical input' 버튼(![](/img/numeric.PNG))을 클릭하면 숫자를 입력하는 문제를 등록할 수 있습니다.
+   ![numeric](/img/42.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![numeric_shown](/img/43.PNG)
 
-     -  Drag and Drop은 advanced 문제 타입에 있으며, 이미지를 끌어 다른 이미지로 옮길 수 있는 문제를 제공합니다.
+   그 다음으로 "Advanced Type"의 기능을 살펴봅시다.
+   Drag and Drop은 advanced 문제 타입에 있으며, 이미지를 끌어 다른 이미지로 옮길 수 있는 문제를 제공합니다.
+   다음과 같이 주어진 템플릿의 문제를 등록합니다.
+   ![drag](/img/48.PNG)
+   이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
+   ![drag_shown](/img/49.PNG)
 
-       다음과 같이 주어진 템플릿의 문제를 등록합니다.
-       ![drag](/img/48.PNG)
-       이렇게 구현한 결과는 사용자에게 다음과 같이 보여집니다.
-       ![drag_shown](/img/49.PNG)
-
-   <a id="video"></a>
-   * Video<br>
+   - ***<a id="video"></a> Video***<br>
    "Video"는 동영상 강의 등 동영상을 업로드할 수 있는 메뉴입니다. "Video" 버튼을 클릭한 후, 디폴트로 등록되는 동영상의 'edit' 버튼을 클릭하면 다음과 같이 등록하고자 하는 동영상의 제목과 링크를 입력할 수 있습니다.
    ![video](/img/44.PNG)
 
-     "Save" 버튼을 클릭하면 동영상이 등록되며, 사용자에게 다음과 같이 보여집니다.
-     ![video_shown](/img/45.PNG)
+   "Save" 버튼을 클릭하면 동영상이 등록되며, 사용자에게 다음과 같이 보여집니다.
+   ![video_shown](/img/45.PNG)
 
-  <a id="updates"></a>
-  * **Updates**<br>
-  "Updates" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의에서 업데이트 되는 내용이나 handout 등을 등록하는 페이지입니다.
-  ![updates](/img/51.PNG)
+* **<a id="updates"></a> Updates**<br>
+"Updates" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의에서 업데이트 되는 내용이나 handout 등을 등록하는 페이지입니다.
+![updates](/img/51.PNG)
 
-  상단에 "New Updates" 버튼을 클릭하면 다음과 같이 업데이터 내용을 등록하는 페이지가 뜹니다. 이곳에서 내용을 입력한 다음 "Post" 버튼을 클릭하면 등록할 수 있습니다.
-  ![update_post](/img/53.PNG)
+상단에 "New Updates" 버튼을 클릭하면 다음과 같이 업데이터 내용을 등록하는 페이지가 뜹니다. 이곳에서 내용을 입력한 다음 "Post" 버튼을 클릭하면 등록할 수 있습니다.
+![update_post](/img/53.PNG)
 
-  또, "Course Handouts" 부분에서 "Edit" 버튼을 클릭하면 다음과 같이 handout에 대한 업데이트 내용을 등록할 수 있습니다.
-  ![update_handout](/img/52.PNG)
+또, "Course Handouts" 부분에서 "Edit" 버튼을 클릭하면 다음과 같이 handout에 대한 업데이트 내용을 등록할 수 있습니다.
+![update_handout](/img/52.PNG)
 
-  위에서 구현한 결과는 사용자에게 다음과 같이 나타납니다.
-  ![update_shown](/img/54.PNG)
+위에서 구현한 결과는 사용자에게 다음과 같이 나타납니다.
+![update_shown](/img/54.PNG)
 
-  <a id="pages"></a>
-  * **Pages**<br>
-  "Pages" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의 상단에 있는 여러 페이지를 관리하고 추가할 수 있습니다.
-  ![pages](/img/55.PNG)
+* **<a id="pages"></a> Pages**<br>
+"Pages" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의 상단에 있는 여러 페이지를 관리하고 추가할 수 있습니다.
+![pages](/img/55.PNG)
 
-  다음과 같이 원래 있던 페이지가 보여지며, 상단에는 "New Page" 버튼이 있습니다. 이 버튼을 클릭하면 원하는 새 페이지를 추가할 수 있습니다.
-  ![new_pages](/img/56.PNG)
+다음과 같이 원래 있던 페이지가 보여지며, 상단에는 "New Page" 버튼이 있습니다. 이 버튼을 클릭하면 원하는 새 페이지를 추가할 수 있습니다.
+![new_pages](/img/56.PNG)
 
-  버튼을 클릭하고 새로운 페이지의 내용을 입력합니다.
-  ![new_pages_editor](/img/57.PNG)
+버튼을 클릭하고 새로운 페이지의 내용을 입력합니다.
+![new_pages_editor](/img/57.PNG)
 
-  상단 오른쪽의 "SETTINGS" 버튼을 클릭하여 페이지의 이름을 수정하고 "Save" 버튼을 클릭합니다.
-  ![new_pages_name](/img/58.PNG)
+상단 오른쪽의 "SETTINGS" 버튼을 클릭하여 페이지의 이름을 수정하고 "Save" 버튼을 클릭합니다.
+![new_pages_name](/img/58.PNG)
 
-  새로운 페이지가 만들어진 것을 확인할 수 있습니다.
-  ![](/img/59.PNG)
+새로운 페이지가 만들어진 것을 확인할 수 있습니다.
+![](/img/59.PNG)
 
-  사용자에게도 다음과 같이 새로운 페이지가 나타나게 됩니다.
-  ![pages_shown](/img/60.PNG)
+사용자에게도 다음과 같이 새로운 페이지가 나타나게 됩니다.
+![pages_shown](/img/60.PNG)
 
-  <a id="uploads"></a>
-  * **Files & Uploads**<br>
-  "Files & Uploads" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의 등록되는 파일이나 업로드 등을 관리할 수 있습니다.
-  ![files](/img/61.PNG)
+* **<a id="uploads"></a> Files & Uploads**<br>
+"Files & Uploads" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의 등록되는 파일이나 업로드 등을 관리할 수 있습니다.
+![files](/img/61.PNG)
 
-  "Upload your first asset" 버튼과 "Upload New File" 버튼을 클릭하면 강의에 필요한 새로운 파일을 업로드할 수 있습니다. 다음은 업로드한 파일을 보여줍니다.
-  ![new_files](/img/64.PNG)
+"Upload your first asset" 버튼과 "Upload New File" 버튼을 클릭하면 강의에 필요한 새로운 파일을 업로드할 수 있습니다. 다음은 업로드한 파일을 보여줍니다.
+![new_files](/img/64.PNG)
 
-  <a id="textbooks"></a>
-  * **Textbooks**<br>
-  "Textbooks" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의에서 사용되는 교재를 등록할 수 있습니다.
-  ![textbooks](/img/65.PNG)
+* **<a id="textbooks"></a> Textbooks**<br>
+"Textbooks" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의에서 사용되는 교재를 등록할 수 있습니다.
+![textbooks](/img/65.PNG)
 
-  "Add your first textbook" 버튼을 클릭하면 다음과 같이 각 섹션 별로 사용하는 교재의 내용을 추가하여 pdf 파일의 내용을 학생들에게 보여줄 수 있습니다.
-  ![new_textbook](/img/66.PNG)
+"Add your first textbook" 버튼을 클릭하면 다음과 같이 각 섹션 별로 사용하는 교재의 내용을 추가하여 pdf 파일의 내용을 학생들에게 보여줄 수 있습니다.
+![new_textbook](/img/66.PNG)
 
-  등록한 교재는 사용자에게 다음과 같이 보여지게 됩니다.
-  ![textbook_shown](/img/67.PNG)
+등록한 교재는 사용자에게 다음과 같이 보여지게 됩니다.
+![textbook_shown](/img/67.PNG)
 
 
 
