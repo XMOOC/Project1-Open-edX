@@ -54,12 +54,12 @@
   하나의 unit 안에는 여러 component을 만들 수 있습니다. component에는 "Discussion", "HTML", "Problem", "Video"을 넣을 수 있습니다. 각 component에 대해서 살펴봅시다.
 
     <a id="discussion"></a>
-    - Discussion<br>
+    ***Discussion***<br>
     "Discussion" 버튼을 클릭하면 다음과 같이 discussion 부분이 생성됩니다. 학생들이 discussion에서 강의 내용에 대해 토론할 수 있으며, 실시간으로 학생들이 입력한 내용이 보여집니다.
     ![discussion](/img/23.PNG)
 
     <a id="html"></a>
-    - HTML<br>
+    ***HTML***<br>
     "HTML" 버튼을 클릭하면 다음 메뉴를 볼 수 있습니다![html_menu](/img/html_menu.PNG)
     이 중 몇 가지 기능에 대해서 살펴봅시다.
 
