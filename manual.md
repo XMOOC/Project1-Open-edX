@@ -63,21 +63,21 @@
     "HTML" 버튼을 클릭하면 다음 메뉴를 볼 수 있습니다![html_menu](/img/html_menu.PNG)
     이 중 몇 가지 기능에 대해서 살펴봅시다.
 
-      Text는 본문 내용을 작성할 수 있습니다. 다음과 같이 등록하고자 하는 내용을 적은 뒤 저장합니다.
+      - Text는 본문 내용을 작성할 수 있습니다. 다음과 같이 등록하고자 하는 내용을 적은 뒤 저장합니다.
       ![text](/img/24.PNG)
       다음은 구현 결과입니다.
       ![text_shown](/img/26.PNG)
 
-      Announcement는 알림사항을 등록하는 기능입니다. 다음과 같이 주어진 템플릿에 맞추어 알림 사항을 적고 저장합니다.
+      - Announcement는 알림사항을 등록하는 기능입니다. 다음과 같이 주어진 템플릿에 맞추어 알림 사항을 적고 저장합니다.
       ![announcement](/img/25.PNG)
 
-      Full Screen Image Tool은 full size 이미지를 등록하고자 할 때 사용할 수 있습니다. 다음과 같이 이미지의 url을 등록하거나 직접 이미지를 삽입할 수 있습니다.
+      - Full Screen Image Tool은 full size 이미지를 등록하고자 할 때 사용할 수 있습니다. 다음과 같이 이미지의 url을 등록하거나 직접 이미지를 삽입할 수 있습니다.
       ![image_tool](/img/28.PNG)
       구현 결과는 다음과 같습니다.
       ![image_tool_shown](/img/30.PNG)
 
     <a id="problem"></a>
-    - Problem<br>
+    ***Problem***<br>
     "Problem" 버튼을 클릭하면 다음과 같은 메뉴를 볼 수 있습니다. 퀴즈나 lab 등의 문제를 출제할 때 사용할 수 있는 메뉴입니다.
     ![problem](/img/31.PNG)
 
