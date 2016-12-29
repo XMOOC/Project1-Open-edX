@@ -39,23 +39,23 @@
 "Outline" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의의 구조를 설정할 수 있습니다.
 ![first](/img/18.PNG)
 
-"New section" 버튼을 클릭하면 section이 만들어집니다. Section 이름을 수정하여 원하는 이름을 지정합니다.
+ "New section" 버튼을 클릭하면 section이 만들어집니다. Section 이름을 수정하여 원하는 이름을 지정합니다.
 ![section](/img/19.PNG)
 
-Section 안에 subsection을 생성할 수 있습니다. "New subsection" 버튼을 클릭하여 subsection의 이름을 설정합니다.
+ Section 안에 subsection을 생성할 수 있습니다. "New subsection" 버튼을 클릭하여 subsection의 이름을 설정합니다.
 ![subsection](/img/20.PNG)
 
-생성한 subsection 안에는 unit을 생성할 수 있습니다. "New unit" 버튼을 클릭하면 다음과 같이 unit 설정 페이지로 이동합니다.
+ 생성한 subsection 안에는 unit을 생성할 수 있습니다. "New unit" 버튼을 클릭하면 다음과 같이 unit 설정 페이지로 이동합니다.
 ![unit](/img/21.PNG)
 
-먼저, unit의 이름을 설정합니다.
+ 먼저, unit의 이름을 설정합니다.
 ![unit_name](/img/22.PNG)
 
-하나의 unit 안에는 여러 component을 만들 수 있습니다. component에는 "Discussion", "HTML", "Problem", "Video"을 넣을 수 있습니다. 각 component에 대해서 살펴봅시다.
+ 하나의 unit 안에는 여러 component을 만들 수 있습니다. component에는 "Discussion", "HTML", "Problem", "Video"을 넣을 수 있습니다. 각 component에 대해서 살펴봅시다.
 
-  - ***<a id="discussion"></a> Discussion***<br>
-  "Discussion" 버튼을 클릭하면 다음과 같이 discussion 부분이 생성됩니다. 학생들이 discussion에서 강의 내용에 대해 토론할 수 있으며, 실시간으로 학생들이 입력한 내용이 보여집니다.
-  ![discussion](/img/23.PNG)
+   - ***<a id="discussion"></a> Discussion***<br>
+   "Discussion" 버튼을 클릭하면 다음과 같이 discussion 부분이 생성됩니다. 학생들이 discussion에서 강의 내용에 대해 토론할 수 있으며, 실시간으로 학생들이 입력한 내용이 보여집니다.
+   ![discussion](/img/23.PNG)
 
     <a id="html"></a>
     ***HTML***<br>
