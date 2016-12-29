@@ -35,7 +35,7 @@
 ## <a id="content"></a> 2. Content
 "Content" 메뉴에서는 강의의 내용을 구성하고 만들 수 있습니다. 위쪽의 "Content" 버튼을 클릭하면 여러 하위항목이 나타납니다: "Outline", "Updates", "Pages", "Files & Uploads", "Textbooks"
 
-### <a id="outline"></a> Outline
+* ***<a id="outline"></a> Outline***<br>
 "Outline" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의의 구조를 설정할 수 있습니다.
 ![first](/img/18.PNG)
 
@@ -53,7 +53,7 @@ Section 안에 subsection을 생성할 수 있습니다. "New subsection" 버튼
 
 하나의 unit 안에는 여러 component을 만들 수 있습니다. component에는 "Discussion", "HTML", "Problem", "Video"을 넣을 수 있습니다. 각 component에 대해서 살펴봅시다.
 
-#### <a id="discussion"></a> Discussion
+  - ***<a id="discussion"></a> Discussion***<br>
   "Discussion" 버튼을 클릭하면 다음과 같이 discussion 부분이 생성됩니다. 학생들이 discussion에서 강의 내용에 대해 토론할 수 있으며, 실시간으로 학생들이 입력한 내용이 보여집니다.
   ![discussion](/img/23.PNG)
 
