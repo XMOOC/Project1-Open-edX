@@ -16,8 +16,6 @@
    * [Course team](#team)
    * [Group Configurations](#group)
    * [Advanced Settings](#advanced)
-4. [Tools](#tools)
-
 
 ## <a id="creating"></a> 1. Creating a New Course
 스튜디오에서 다음과 같이 'Studio Home'으로 이동합니다.
@@ -129,79 +127,55 @@
 "Updates" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의에서 업데이트 되는 내용이나 handout 등을 등록하는 페이지입니다.
 ![updates](/img/51.PNG)
 
-상단에 "New Updates" 버튼을 클릭하면 다음과 같이 업데이터 내용을 등록하는 페이지가 뜹니다. 이곳에서 내용을 입력한 다음 "Post" 버튼을 클릭하면 등록할 수 있습니다.
+ 상단에 "New Updates" 버튼을 클릭하면 다음과 같이 업데이터 내용을 등록하는 페이지가 뜹니다. 이곳에서 내용을 입력한 다음 "Post" 버튼을 클릭하면 등록할 수 있습니다.
 ![update_post](/img/53.PNG)
 
-또, "Course Handouts" 부분에서 "Edit" 버튼을 클릭하면 다음과 같이 handout에 대한 업데이트 내용을 등록할 수 있습니다.
+ 또, "Course Handouts" 부분에서 "Edit" 버튼을 클릭하면 다음과 같이 handout에 대한 업데이트 내용을 등록할 수 있습니다.
 ![update_handout](/img/52.PNG)
 
-위에서 구현한 결과는 사용자에게 다음과 같이 나타납니다.
+ 위에서 구현한 결과는 사용자에게 다음과 같이 나타납니다.
 ![update_shown](/img/54.PNG)
 
 * **<a id="pages"></a> Pages**<br>
 "Pages" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 페이지에서는 강의 상단에 있는 여러 페이지를 관리하고 추가할 수 있습니다.
 ![pages](/img/55.PNG)
 
-다음과 같이 원래 있던 페이지가 보여지며, 상단에는 "New Page" 버튼이 있습니다. 이 버튼을 클릭하면 원하는 새 페이지를 추가할 수 있습니다.
+ 다음과 같이 원래 있던 페이지가 보여지며, 상단에는 "New Page" 버튼이 있습니다. 이 버튼을 클릭하면 원하는 새 페이지를 추가할 수 있습니다.
 ![new_pages](/img/56.PNG)
 
-버튼을 클릭하고 새로운 페이지의 내용을 입력합니다.
-![new_pages_editor](/img/57.PNG)
+ 버튼을 클릭하고 새로운 페이지의 내용을 입력합니다.
+ ![new_pages_editor](/img/57.PNG)
 
-상단 오른쪽의 "SETTINGS" 버튼을 클릭하여 페이지의 이름을 수정하고 "Save" 버튼을 클릭합니다.
+ 상단 오른쪽의 "SETTINGS" 버튼을 클릭하여 페이지의 이름을 수정하고 "Save" 버튼을 클릭합니다.
 ![new_pages_name](/img/58.PNG)
 
-새로운 페이지가 만들어진 것을 확인할 수 있습니다.
+ 새로운 페이지가 만들어진 것을 확인할 수 있습니다.
 ![](/img/59.PNG)
 
-사용자에게도 다음과 같이 새로운 페이지가 나타나게 됩니다.
+ 사용자에게도 다음과 같이 새로운 페이지가 나타나게 됩니다.
 ![pages_shown](/img/60.PNG)
 
 * **<a id="uploads"></a> Files & Uploads**<br>
 "Files & Uploads" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의 등록되는 파일이나 업로드 등을 관리할 수 있습니다.
 ![files](/img/61.PNG)
 
-"Upload your first asset" 버튼과 "Upload New File" 버튼을 클릭하면 강의에 필요한 새로운 파일을 업로드할 수 있습니다. 다음은 업로드한 파일을 보여줍니다.
+ "Upload your first asset" 버튼과 "Upload New File" 버튼을 클릭하면 강의에 필요한 새로운 파일을 업로드할 수 있습니다. 다음은 업로드한 파일을 보여줍니다.
 ![new_files](/img/64.PNG)
 
 * **<a id="textbooks"></a> Textbooks**<br>
 "Textbooks" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의에서 사용되는 교재를 등록할 수 있습니다.
 ![textbooks](/img/65.PNG)
 
-"Add your first textbook" 버튼을 클릭하면 다음과 같이 각 섹션 별로 사용하는 교재의 내용을 추가하여 pdf 파일의 내용을 학생들에게 보여줄 수 있습니다.
+ "Add your first textbook" 버튼을 클릭하면 다음과 같이 각 섹션 별로 사용하는 교재의 내용을 추가하여 pdf 파일의 내용을 학생들에게 보여줄 수 있습니다.
 ![new_textbook](/img/66.PNG)
 
-등록한 교재는 사용자에게 다음과 같이 보여지게 됩니다.
+ 등록한 교재는 사용자에게 다음과 같이 보여지게 됩니다.
 ![textbook_shown](/img/67.PNG)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### <a id="settings"></a> 3. Settings
+## <a id="settings"></a> 3. Settings
 "Settings" 메뉴에서는 강의에 대한 모든 설정을 할 수 있습니다.
 위쪽의 "Settings" 버튼을 클릭하면 여러 하위항목이 나타납니다: "Schedule & Details", "Grading", "Course team", "Group Configurations", "Advanced Settings"
-  <a id="schedule"></a>
-  * **Schedule & Details**<br>
+* **<a id="schedule"></a>Schedule & Details**<br>
   "Schedule & Details" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의의 일정을 세부적으로 설정할 수 있습니다.
   ![first](/img/4.PNG)
 
@@ -215,36 +189,33 @@
   ![image](/img/7.PNG)
   ![image](/img/first_page.PNG)
 
-  <a id="grading"></a>
-  * **Grading**<br>
-  "Grading" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다.
-  이 메뉴에서는 강의를 수강하는 학생들의 성적을 평가하는 방식과 성적을 반영하는 과제를 설정할 수 있습니다.
-  ![first](/img/8.PNG)
+* ***<a id="grading"></a> Grading***<br>
+"Grading" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다.
+이 메뉴에서는 강의를 수강하는 학생들의 성적을 평가하는 방식과 성적을 반영하는 과제를 설정할 수 있습니다.
+![first](/img/8.PNG)
 
-  먼저, 성적 방식을 설정합니다. default 값은 50점을 기준으로 Pass와 Fail로 나누는 방법이지만 다음과 같이 왼쪽의 '+' 버튼을 클릭하면 성적 방식을 letter grade로도 바꿀 수 있으며, 기준 점수도 조정할 수 있습니다.
-  ![grading](/img/9.PNG)
+먼저, 성적 방식을 설정합니다. default 값은 50점을 기준으로 Pass와 Fail로 나누는 방법이지만 다음과 같이 왼쪽의 '+' 버튼을 클릭하면 성적 방식을 letter grade로도 바꿀 수 있으며, 기준 점수도 조정할 수 있습니다.
+![grading](/img/9.PNG)
 
-  스크롤을 아래로 내려 Assignment Type을 설정해줍니다. 성적을 반영하고자 하는 과제의 타입을 입력해줍니다. 다음과 같이 default 값으로 Homework, Lab, Midterm Exam, Final Exam이 등록되어 있습니다. 각 항목을 수정하여 원하는 과제 유형을 설정합니다.
-  ![assign_type](/img/10.PNG)
+스크롤을 아래로 내려 Assignment Type을 설정해줍니다. 성적을 반영하고자 하는 과제의 타입을 입력해줍니다. 다음과 같이 default 값으로 Homework, Lab, Midterm Exam, Final Exam이 등록되어 있습니다. 각 항목을 수정하여 원하는 과제 유형을 설정합니다.
+![assign_type](/img/10.PNG)
 
-  더 추가하고자 하는 과제가 있다면 아래의 "New Assignment Type" 버튼을 클릭해 추가할 수 있습니다.
-  ![more_assign](/img/11.PNG)
+더 추가하고자 하는 과제가 있다면 아래의 "New Assignment Type" 버튼을 클릭해 추가할 수 있습니다.
+![more_assign](/img/11.PNG)
 
-  <a id="team"></a>
-  * **Course Team**<br>
-  "Course Team" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다." 이 메뉴에서는 강의의 course team 멤버를 추가할 수 있습니다. course team 멤버는 강의 내용에 접근하거나 수정할 수 있는 권한이 있으며, 이 멤버들을 추가하고 관리하는 사람을 admin이라고 부릅니다.
-  ![first](/img/13.PNG)
+* ***<a id="team"></a>Course Team***<br>
+"Course Team" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다." 이 메뉴에서는 강의의 course team 멤버를 추가할 수 있습니다. course team 멤버는 강의 내용에 접근하거나 수정할 수 있는 권한이 있으며, 이 멤버들을 추가하고 관리하는 사람을 admin이라고 부릅니다.
+![first](/img/13.PNG)
 
-  위에는 admin인 현재 자신의 계정 이메일이 포함되어 있으며 아래의 "Add a New Team Member" 버튼을 클릭하면 새로운 course team 멤버를 추가할 수 있습니다. 버튼을 클릭하면 다음과 같이 나타납니다. 새로운 멤버의 이메일 계정을 입력하고 "ADD USER" 버튼을 클릭합니다.
-  ![new_team](/img/14.PNG)
+위에는 admin인 현재 자신의 계정 이메일이 포함되어 있으며 아래의 "Add a New Team Member" 버튼을 클릭하면 새로운 course team 멤버를 추가할 수 있습니다. 버튼을 클릭하면 다음과 같이 나타납니다. 새로운 멤버의 이메일 계정을 입력하고 "ADD USER" 버튼을 클릭합니다.
+![new_team](/img/14.PNG)
 
-  <a id="group"></a>
-  * **Group Configurations**<br>
-  "Group Configure" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의에 등록한 학생들 중 특정 학생들을 group으로 만들어 그 group만 지정된 컨텐츠를 볼 수 있도록 설정합니다.한 명 이상의 학생들을 group으로 만들 수 있습니다.
-  ![first](/img/15.PNG)
+* ***<a id="group"></a>Group Configurations***<br>
+"Group Configure" 하위 항목을 클릭하면 다음과 같은 페이지가 나타납니다. 이 메뉴에서는 강의에 등록한 학생들 중 특정 학생들을 group으로 만들어 그 group만 지정된 컨텐츠를 볼 수 있도록 설정합니다.한 명 이상의 학생들을 group으로 만들 수 있습니다.
+![first](/img/15.PNG)
 
-  Contents Group Name에서는 group의 이름을 입력한 뒤 "Create" 버튼을 클릭하면 contents group이 만들어지게 됩니다.
-  ![create_group](/img/16.PNG)
+Contents Group Name에서는 group의 이름을 입력한 뒤 "Create" 버튼을 클릭하면 contents group이 만들어지게 됩니다.
+![create_group](/img/16.PNG)
 
-  다음과 같이 새로 만든 group을 확인할 수 있습니다.
-  ![new_group](/img/17.PNG)
+다음과 같이 새로 만든 group을 확인할 수 있습니다.
+![new_group](/img/17.PNG)
